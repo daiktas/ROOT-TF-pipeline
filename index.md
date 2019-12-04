@@ -1,8 +1,3 @@
-# ROOT-based preprocessing pipeline for TensorFlow
-
-[![Build Status](https://travis-ci.com/matt-komm/ROOT-TF-pipeline.svg?branch=master)](https://travis-ci.com/matt-komm/ROOT-TF-pipeline)
-
-
 ## Description
 
 This repository contains a demonstration of the preprocessing pipeline 

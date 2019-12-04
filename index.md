@@ -4,8 +4,8 @@ This repository contains a demonstration of the preprocessing pipeline
 including a direct interface to [ROOT TTrees](https://root.cern.ch/doc/master/classTTree.html) 
 developed in the context of 
 
-> CMS Collaboration, "A deep neural network-based tagger to search for 
-> new long-lived particle states decaying to jets", (*paper in preparation*).
+* CMS Collaboration, "A deep neural network-based tagger to search for 
+new long-lived particle states decaying to jets", (*paper in preparation*).
 
 
 ## Dependencies
@@ -49,7 +49,7 @@ Files containing flat ROOT TTrees for testing the pipeline are available
 in the ```Samples``` directory. These have been produced from the following
 open dataset:
 
-CMS Collaboration (2019). Simulated dataset 
+* CMS Collaboration (2019). Simulated dataset 
 ```QCD_Pt-15to7000_TuneCUETP8M1_Flat_13TeV_pythia8``` in ```MINIAODSIM``` format 
 for 2016 collision data. CERN Open Data Portal. 
 [DOI:10.7483/OPENDATA.CMS.J52Q.4T4E](http://opendata.cern.ch/record/12021)

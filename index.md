@@ -68,6 +68,6 @@ python pipeline.py
 
 ## Authors
 
-Matthias Komm, Vilius Cepaitis, Robert Bainbridge, Alex Tapper, 
+Copyright 2019 Matthias Komm, Vilius Cepaitis, Robert Bainbridge, Alex Tapper, 
 Oliver Buchmüller.
 
